@@ -33,13 +33,9 @@ cd tu-repositorio
 
 Luego abre `index.html` con tu navegador favorito.
 
-### Método 3: GitHub Pages (Para acceso online)
+### Método 3: Enlace
 
-1. Ve a **Settings** de tu repositorio
-2. En el menú lateral, haz clic en **Pages**
-3. En **Source**, selecciona la rama `main` o `master`
-4. Haz clic en **Save**
-5. Espera unos minutos y accede a: `https://tu-usuario.github.io/tu-repositorio/`
+https://organizadorasignaturas.netlify.app/
 
 ## 📖 Guía de uso
 
